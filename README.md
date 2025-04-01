@@ -7,5 +7,5 @@ You can also type `chmod 777 saferm.sh`, but proceed with caution as this grants
 & execute permissions to everyone in the system
 
 ### Execute the Script
-Type ./saferm.sh to your file path on where the shell file is located
+Type `./saferm.sh` to your file path on where the shell file is located
 If you need to exit the program at any time, type `ctrl + c`.
